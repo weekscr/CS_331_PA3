@@ -1,0 +1,8 @@
+[14:46:25]: Accuracy is: 95.79158316633267%
+Trained on trainingSet.txt
+Tested on trainingSet.txt
+
+[14:46:46]: Accuracy is: 75.65392354124748%
+Trained on trainingSet.txt
+Tested on testSet.txt
+
